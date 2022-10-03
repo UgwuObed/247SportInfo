@@ -18,13 +18,13 @@
      padding: 10px 15px;
 }
  .skyblue {
-     background-image:url('../images/main-slider-img1.jpg');
+     background-image:url('../images/bg5.jpg');
 }
  .darkerskyblue {
-     background-image:url('../images/bbg.jpg');
+     background-image:url('../images/bg4.jpg');
 }
  .deepskyblue {
-     background-image:url('../images/bbg.jpg');
+     background-image:url('../images/bg2.jpg');
 }
  .carousel-indicators {
      bottom: 0;
